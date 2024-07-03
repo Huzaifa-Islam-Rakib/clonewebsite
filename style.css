@@ -53,6 +53,13 @@ header{
     
 }
 
+#resicon{
+    color: white;
+    position: relative;
+    left: 5%;
+    top: 2%;
+}
+
 
 #main1{
     height: 70vh;
